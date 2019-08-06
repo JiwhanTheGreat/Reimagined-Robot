@@ -28,7 +28,6 @@ public class Robot extends TimedRobot {
    */
   @Override
   public void robotInit() {
-    m_myRobot = new DifferentialDrive(new Victor)
   }
 
   @Override
